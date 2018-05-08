@@ -1,9 +1,4 @@
-def move(board, index, "X")
 
-
-
-
-end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
